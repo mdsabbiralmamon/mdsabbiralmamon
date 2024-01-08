@@ -1,2 +1,1 @@
-# my-git-stats
-Track Your GitHub Activity
+![Banner](https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/banner.png)
