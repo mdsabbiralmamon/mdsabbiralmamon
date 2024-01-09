@@ -23,7 +23,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 👨‍💻 24 Years old Developer  
 👨‍🎓 Studying Computer Science here in Bangladesh  
 🚧 **Current Project:** [Web3 Solutions LTD](https://web3solutionsltd.com/)
-📈 **Total Profile View Count: <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
+📈 **Total Profile View Count:** <img src="https://profile-counter.glitch.me/mdsabbiralmamon/count.svg">
 
 
 
