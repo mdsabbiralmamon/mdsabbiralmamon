@@ -32,20 +32,20 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 ### 🟢    Can Use :
 
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/after-effects.png">After Effects</img></code>
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/css-3.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/html-5.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/illustrator.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/photoshop.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/premiere-pro.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/wordpress.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/after-effects.png"> After Effects</img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/bootstrap.png"> Bootstrap</img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/css-3.png"> CSS 3</img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/html-5.png"> HTML 5</img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/illustrator.png"> Illustrator</img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/java.png"> JAVA</img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/photoshop.png"> Photoshop</img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/premiere-pro.png"> Premiere Pro</img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/python.png"> Python</img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/wordpress.png"> WordPress</img></code>
 
 ### 🟡    learning Queue :
 
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/js.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/js.png"> Java Script</img></code>
 
 ## ⚙️    Overall GitHub Analytics (Reload if stats aren't showing):
 
