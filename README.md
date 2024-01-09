@@ -32,7 +32,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 ### 🟢    Can Use :
 
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/after-effects.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/after-effects.png">After Effects</img></code>
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/css-3.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/html-5.png"></code>
