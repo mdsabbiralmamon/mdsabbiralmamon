@@ -41,8 +41,8 @@ I am currently a university student pursuing Computer Science and Engineering (C
 ## ⚙️    Overall GitHub Analytics:
 
 <a href="https://github.com/mdsabbiralmamon">
-  <img height=" " width="1000vh" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsabbiralmamon&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsabbiralmamon&theme=onedark" />
+  <img height=" " width="1000vh" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsabbiralmamon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsabbiralmamon&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 ### ⏱    Currently Working on : 
