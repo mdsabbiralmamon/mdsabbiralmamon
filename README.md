@@ -68,7 +68,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 liked this template? Why not <a href="https://ko-fi.com/tetrasam">buy me a coffee </a>
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z1IHGLT');kofiwidget2.draw();</script> 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1IHGLT)
 
 ---
 
