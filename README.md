@@ -4,6 +4,7 @@
 
 ### Hi There!!!👋 This is
 ## MD SABBIR AL MAMON
+### Total Page Views: <img src="https://profile-counter.glitch.me/mdsabbiralmamon/count.svg">
 Welcome to my profile, most of my work is private. But I have some public projects here.
 I am currently a university student pursuing Computer Science and Engineering (CSE) in BRAC University at BANGLADESH. My academic journey involves delving into the intricacies of coding, where I find a particular passion for crafting and designing webpages using HTML and CSS, with aspirations to incorporate JavaScript in the future. The satisfaction derived from coding extends beyond personal enjoyment, as the products are accessible to a global audience on the web. Additionally, I thrive on the challenges posed by programming languages such as JAVA and Python, finding immense satisfaction in overcoming complex problems.
 
@@ -23,7 +24,6 @@ I am currently a university student pursuing Computer Science and Engineering (C
 👨‍💻 24 Years old Developer  
 👨‍🎓 Studying Computer Science here in Bangladesh  
 🚧 **Current Project:** [Web3 Solutions LTD](https://web3solutionsltd.com/)
-📈 **Total Profile View Count:** <img src="https://profile-counter.glitch.me/mdsabbiralmamon/count.svg">
 
 
 
