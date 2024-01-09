@@ -16,6 +16,15 @@ I am currently a university student pursuing Computer Science and Engineering (C
   [![](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-black?logo=x&style=plastic)](https://twitter.com/mdsabbiralmamon)
   [![](https://img.shields.io/badge/-Tetra_SAM-2c2f33?logo=discord&style=plastic)](https://discordapp.com/users/634075473462296595)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mdsabbiralmamon&show_icons=true">
+
+## 🧭    My Current Status:
+  
+👨‍💻 24 Years old Developer  
+👨‍🎓 Studying Computer Science here in Bangladesh  
+🚧 **Current Project:** [Web3 Solutions LTD](https://web3solutionsltd.com/)
+
+
 
 ## 🛠️    My Skills:
 
