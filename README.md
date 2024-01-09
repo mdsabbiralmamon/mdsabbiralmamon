@@ -39,7 +39,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/premiere-pro.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/python.png"></code>
 
-## ⚙️    Overall GitHub Analytics:
+## ⚙️    Overall GitHub Analytics (Reload if stats aren't showing):
 
 <a href="https://github.com/mdsabbiralmamon">
   <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api?username=mdsabbiralmamon&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
