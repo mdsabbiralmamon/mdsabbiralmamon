@@ -66,7 +66,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 ---
 
-liked this template? Why not <a href="https://ko-fi.com/tetrasam">buy me a coffee </a>
+liked this template? Why not <a href="https://ko-fi.com/tetrasam">buy me a coffee </a> or drop a star 🥺
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1IHGLT)
 
