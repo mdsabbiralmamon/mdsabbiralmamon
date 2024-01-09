@@ -17,7 +17,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
   [![](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-black?logo=x&style=plastic)](https://twitter.com/mdsabbiralmamon)
   [![](https://img.shields.io/badge/-Tetra_SAM-2c2f33?logo=discord&style=plastic)](https://discordapp.com/users/634075473462296595)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mdsabbiralmamon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mdsabbiralmamon&show_icons=true&theme=transparent">
 
 ## 🧭    My Current(2024) Status:
   
@@ -41,16 +41,16 @@ I am currently a university student pursuing Computer Science and Engineering (C
 ## ⚙️    Overall GitHub Analytics:
 
 <a href="https://github.com/mdsabbiralmamon">
-  <img height=" " width="1000vh" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsabbiralmamon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsabbiralmamon&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img height=" " width="1000vh" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsabbiralmamon&show_icons=true&theme=transparent" />
+  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsabbiralmamon&theme=transparent" />
 </a>
 
 ### ⏱    Currently Working on : 
 
 <a href="https://github.com/mdsabbiralmamon/myJourneyFor2024">
-  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsabbiralmamon&repo=myJourneyFor2024&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsabbiralmamon&repo=myJourneyFor2024&theme=transparent" />
 </a>
 
 <a href="https://github.com/mdsabbiralmamon/new-year-greetings">
-  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsabbiralmamon&repo=new-year-greetings&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsabbiralmamon&repo=new-year-greetings&theme=transparent" />
 </a>
