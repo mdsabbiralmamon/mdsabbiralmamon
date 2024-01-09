@@ -12,11 +12,11 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 ## ⚡    Connect with me through socials:
 
-  [![](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-darkblue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/mdsabbiralmamon/)
-  [![](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-blue?logo=facebook&style=plastic)](https://www.facebook.com/mdsabb1ralmamon/)
-  [![](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-black?logo=x&style=plastic)](https://twitter.com/mdsabbiralmamon)
-  [![](https://img.shields.io/badge/-Tetra_SAM-2c2f33?logo=discord&style=plastic)](https://discordapp.com/users/634075473462296595)
-  [![](https://img.shields.io/badge/-Tetra_SAM-2c2f33?logo=kofi&style=plastic)](https://ko-fi.com/tetrasam)
+  [![Linked In](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-darkblue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/mdsabbiralmamon/)
+  [![Facebook](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-blue?logo=facebook&style=plastic)](https://www.facebook.com/mdsabb1ralmamon/)
+  [![Twitter](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-black?logo=x&style=plastic)](https://twitter.com/mdsabbiralmamon)
+  [![Discord](https://img.shields.io/badge/-Tetra_SAM-2c2f33?logo=discord&style=plastic)](https://discordapp.com/users/634075473462296595)
+  [![Ko-fi](https://img.shields.io/badge/-Tetra_SAM-2c2f33?logo=kofi&style=plastic)](https://ko-fi.com/tetrasam)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mdsabbiralmamon&show_icons=true">
 
