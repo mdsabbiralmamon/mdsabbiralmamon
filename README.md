@@ -31,7 +31,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 ## ⚙️    GitHub Analytics
 
 <a href="https://github.com/mdsabbiralmamon">
-  <img height="180em" width="500vh" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsabbiralmamon&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" width="1000vh" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsabbiralmamon&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" width="full-width" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdsabbiralmamon&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsabbiralmamon&theme=onedark)](https://github.com/mdsabbiralmamon/my-git-stats)
