@@ -16,6 +16,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
   [![](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-blue?logo=facebook&style=plastic)](https://www.facebook.com/mdsabb1ralmamon/)
   [![](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-black?logo=x&style=plastic)](https://twitter.com/mdsabbiralmamon)
   [![](https://img.shields.io/badge/-Tetra_SAM-2c2f33?logo=discord&style=plastic)](https://discordapp.com/users/634075473462296595)
+  [![](https://img.shields.io/badge/-Tetra_SAM-2c2f33?logo=kofi&style=plastic)](https://ko-fi.com/tetrasam)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mdsabbiralmamon&show_icons=true">
 
@@ -61,3 +62,14 @@ I am currently a university student pursuing Computer Science and Engineering (C
   <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mdsabbiralmamon" />
 </a>
 
+<div align="center">
+
+---
+
+liked this template? Why not <a href="https://ko-fi.com/tetrasam">buy me a coffee </a>
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z1IHGLT');kofiwidget2.draw();</script> 
+
+---
+
+</div>
