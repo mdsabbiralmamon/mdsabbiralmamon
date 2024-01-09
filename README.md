@@ -18,11 +18,12 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mdsabbiralmamon&show_icons=true">
 
-## 🧭    My Current Status:
+## 🧭    My Current(2024) Status:
   
 👨‍💻 24 Years old Developer  
 👨‍🎓 Studying Computer Science here in Bangladesh  
 🚧 **Current Project:** [Web3 Solutions LTD](https://web3solutionsltd.com/)
+📈 **Total Profile View Count: <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
 
 
 
@@ -37,7 +38,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/premiere-pro.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/python.png"></code>
 
-## ⚙️    GitHub Analytics
+## ⚙️    Overall GitHub Analytics:
 
 <a href="https://github.com/mdsabbiralmamon">
   <img height=" " width="1000vh" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsabbiralmamon&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
