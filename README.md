@@ -61,7 +61,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 </a>
 
 <a href="https://github.com/mdsabbiralmamon/new-year-greetings">
-  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsabbiralmamon&repo=new-year-greetings" />
+  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsabbiralmamon&repo=architect-website" />
 </a>
 
 ### ⏱    How Much I Code : 
