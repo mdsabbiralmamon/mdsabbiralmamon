@@ -60,7 +60,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
   <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsabbiralmamon&repo=myJourneyFor2024" />
 </a>
 
-<a href="https://github.com/mdsabbiralmamon/new-year-greetings">
+<a href="https://github.com/mdsabbiralmamon/architect-website">
   <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsabbiralmamon&repo=architect-website" />
 </a>
 
