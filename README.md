@@ -70,7 +70,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 ### ⏱    How Much I Code : 
 
-<a href="[https://github.com/mdsabbiralmamon/](https://wakatime.com/@mdsabbiralmamon)">
+<a href="https://wakatime.com/@mdsabbiralmamon">
   <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mdsabbiralmamon" />
 </a>
 
