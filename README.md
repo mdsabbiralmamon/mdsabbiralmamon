@@ -42,10 +42,11 @@ I am currently a university student pursuing Computer Science and Engineering (C
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/premiere-pro.png"> Premiere Pro</img></code>
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/python.png"> Python</img></code>
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/wordpress.png"> WordPress</img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/js.png"> Java Script</img></code>
 
 ### 🟡    learning Queue :
 
-<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/js.png"> Java Script</img></code>
+<code><img height="20" src="#"> Thinking </img></code>
 
 ## ⚙️    Overall GitHub Analytics (Reload if stats aren't showing):
 
