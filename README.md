@@ -46,7 +46,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 ### 🟡    learning Queue :
 
-<code><img height="20" src="#"> Thinking </img></code>
+<code><img height="20" src="#"> Next js </img></code>
 
 ## ⚙️    Overall GitHub Analytics (Reload if stats aren't showing):
 
