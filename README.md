@@ -51,18 +51,9 @@ I am currently a university student pursuing Computer Science and Engineering (C
 ## ⚙️    Overall GitHub Analytics (Reload if stats aren't showing):
 
 <a href="https://github.com/mdsabbiralmamon">
+  <img height=" " width="1000vh" src="https://github-readme-streak-stats.herokuapp.com?user=mdsabbiralmamon" alt="GitHub Streak" />
   <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api?username=mdsabbiralmamon&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsabbiralmamon&theme=transparent" />
-</a>
-
-### ⏱    Currently Working on : 
-
-<a href="https://github.com/mdsabbiralmamon/myJourneyFor2024">
-  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsabbiralmamon&repo=myJourneyFor2024" />
-</a>
-
-<a href="https://github.com/mdsabbiralmamon/marryme">
-  <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsabbiralmamon&repo=marryme" />
 </a>
 
 ### ⏱    How Much I Code : 
