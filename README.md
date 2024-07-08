@@ -18,6 +18,8 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 </div>
 
+<img width="100%" height="3px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
 ## ⚡    Connect with me through socials:
 
   [![Linked In](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-darkblue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/mdsabbiralmamon/)
@@ -76,12 +78,12 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 <div align="center">
 
----
+<img width="100%" height="3px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br /> <br />
 
 liked this template? Why not <a href="https://ko-fi.com/tetrasam">buy me a coffee </a> or drop a star 🥺
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1IHGLT)
 
----
+<img width="100%" height="3px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 </div>
