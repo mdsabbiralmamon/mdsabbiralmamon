@@ -22,7 +22,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 <img width="100%" height="3px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-## ⚡    Connect with me through socials:
+## <img width="40px" src="https://raw.githubusercontent.com/mdsabbiralmamon/mdsabbiralmamon/main/images/social.gif">    Connect with me through socials:
 
   [![Linked In](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-darkblue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/mdsabbiralmamon/)
   [![Facebook](https://img.shields.io/badge/-Md_Sabbir_Al_Mamon-blue?logo=facebook&style=plastic)](https://www.facebook.com/mdsabb1ralmamon/)
@@ -40,7 +40,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 
 
-## 🛠️    My Skills:
+## <img width="40px" src="https://raw.githubusercontent.com/mdsabbiralmamon/mdsabbiralmamon/main/images/skills.gif">    My Skills:
 
 ### 🟢    Can Use :
 
@@ -60,7 +60,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 <code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/mdsabbiralmamon/main/images/next-js.svg"> Next js </img></code>
 
-## ⚙️    Overall GitHub Analytics (Reload if stats aren't showing):
+## <img width="40px" src="https://raw.githubusercontent.com/mdsabbiralmamon/mdsabbiralmamon/main/images/analytics.gif">    Overall GitHub Analytics (Reload if stats aren't showing):
 
 <a href="https://github.com/mdsabbiralmamon">
   <img height=" " width="1000vh" src="https://github-readme-streak-stats.herokuapp.com?user=mdsabbiralmamon" alt="GitHub Streak" />
@@ -68,13 +68,13 @@ I am currently a university student pursuing Computer Science and Engineering (C
   <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsabbiralmamon" />
 </a>
 
-### ⏱    How Much I Code : 
+### <img width="40px" src="https://raw.githubusercontent.com/mdsabbiralmamon/mdsabbiralmamon/main/images/status.gif">    How Much I Code : 
 
 <a href="https://wakatime.com/@mdsabbiralmamon">
   <img height=" " width="1000vh" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mdsabbiralmamon" />
 </a>
 
-### ✨    Activity Graph : 
+### <img width="40px" src="https://raw.githubusercontent.com/mdsabbiralmamon/mdsabbiralmamon/main/images/activity.gif">    Activity Graph : 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mdsabbiralmamon&theme=default"/>
 
