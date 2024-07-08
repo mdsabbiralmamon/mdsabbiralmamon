@@ -1,10 +1,18 @@
+<!-- Main Banner Section -->
 ![Banner](https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/banner.png)
 
+<!-- Fading Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<!-- About Section Headers -->
 <div align="center">
 
 ### Hi There!!!👋 This is
 ## MD SABBIR AL MAMON
 ### Total Profile Views: <img src="https://profile-counter.glitch.me/mdsabbiralmamon/count.svg">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 Welcome to my profile, most of my work is private. But I have some public projects here.
 I am currently a university student pursuing Computer Science and Engineering (CSE) in BRAC University at BANGLADESH. My academic journey involves delving into the intricacies of coding, where I find a particular passion for crafting and designing webpages using HTML and CSS, with aspirations to incorporate JavaScript in the future. The satisfaction derived from coding extends beyond personal enjoyment, as the products are accessible to a global audience on the web. Additionally, I thrive on the challenges posed by programming languages such as JAVA and Python, finding immense satisfaction in overcoming complex problems.
 
@@ -46,7 +54,7 @@ I am currently a university student pursuing Computer Science and Engineering (C
 
 ### 🟡    learning Queue :
 
-<code><img height="20" src="#"> Next js </img></code>
+<code><img height="20" src="https://raw.githubusercontent.com/mdsabbiralmamon/mdsabbiralmamon/main/images/next-js.svg"> Next js </img></code>
 
 ## ⚙️    Overall GitHub Analytics (Reload if stats aren't showing):
 
