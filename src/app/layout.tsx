@@ -1,12 +1,5 @@
 import type { Metadata } from "next";
-import { Exo_2 } from "next/font/google";
 import "./globals.css";
-
-const exo2 = Exo_2({
-  variable: "--font-exo-2",
-  subsets: ["latin"],
-  display: "swap",
-});
 
 export const metadata: Metadata = {
   title: "MD Sabbir Al Mamon || Fullstack Developer",
@@ -99,7 +92,7 @@ export default function RootLayout({
         />
         <meta name="twitter:site" content="@yourhandle" />
       </head>
-      <body className={`${exo2.variable} antialiased`}>{children}</body>
+      <body>{children}</body>
     </html>
   );
 }
