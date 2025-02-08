@@ -1,6 +1,6 @@
 <!-- Main Banner Section -->
 
-![Banner](https://raw.githubusercontent.com/mdsabbiralmamon/my-git-stats/main/images/banner.png)
+![Banner](https://raw.githubusercontent.com/mdsabbiralmamon/mdsabbiralmamon/refs/heads/main/public/images/ReadmeIcons/banner.gif)
 
 <!-- Fading Line -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
