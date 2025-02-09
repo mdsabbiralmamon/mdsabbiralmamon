@@ -21,7 +21,7 @@ export default function RootLayout({
   const acceptLanguage = headersList.get("accept-language");
   const defaultLang = acceptLanguage?.split(",")[0].split("-")[0] || "en";
   return (
-    <html lang={defaultLang}>
+    <html lang={defaultLang} data-theme="light">
       <body className={inter.className}>
         <LanguageProvider>{children}</LanguageProvider>
       </body>
