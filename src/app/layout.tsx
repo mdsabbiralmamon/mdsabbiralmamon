@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import LanguageProvider from "@/components/providers/LanguageProvider/LanguageProvider";
+import { headers } from "next/headers";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -14,9 +16,15 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  // Get the default language from headers or default to 'en'
+  const headersList = headers();
+  const acceptLanguage = headersList.get("accept-language");
+  const defaultLang = acceptLanguage?.split(",")[0].split("-")[0] || "en";
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html lang={defaultLang}>
+      <body className={inter.className}>
+        <LanguageProvider>{children}</LanguageProvider>
+      </body>
     </html>
   );
 }
