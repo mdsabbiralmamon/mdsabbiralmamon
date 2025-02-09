@@ -1,3 +1,4 @@
+import Hero from "@/components/Hero/Hero";
 import Navbar from "@/components/shared/Navbar/Navbar";
 import React from "react";
 
@@ -6,6 +7,7 @@ const Home = () => {
     <div className="max-w-7xl mx-auto">
       <header>
         <Navbar />
+        <Hero />
       </header>
       <main></main>
       <footer></footer>
