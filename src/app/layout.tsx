@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Exo_2 } from "next/font/google";
 import "./globals.css";
 import LanguageProvider from "@/components/providers/LanguageProvider/LanguageProvider";
 import { headers } from "next/headers";
 
-const inter = Inter({ subsets: ["latin"] });
+const exo2 = Exo_2({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -22,7 +22,7 @@ export default function RootLayout({
   const defaultLang = acceptLanguage?.split(",")[0].split("-")[0] || "en";
   return (
     <html lang={defaultLang} data-theme="light">
-      <body className={inter.className}>
+      <body className={exo2.className}>
         <LanguageProvider>{children}</LanguageProvider>
       </body>
     </html>
