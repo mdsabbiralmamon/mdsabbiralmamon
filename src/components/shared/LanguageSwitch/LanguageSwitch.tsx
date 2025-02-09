@@ -1,6 +1,5 @@
 "use client";
 import { useTranslation } from "react-i18next";
-import { MdLanguage } from "react-icons/md";
 import React from "react";
 
 const LanguageSwitcher = () => {
@@ -24,6 +23,10 @@ const LanguageSwitcher = () => {
         <option value="bn" className="bg-black w-6">
           {"🌍  "}
           {t("language.bn")}
+        </option>
+        <option value="fr" className="bg-black w-6">
+          {"🌍  "}
+          {t("language.fr")}
         </option>
       </select>
     </div>
