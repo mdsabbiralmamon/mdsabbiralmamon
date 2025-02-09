@@ -1,0 +1,10 @@
+{
+  "logo": "SAMEON",
+  "nav": {
+    "about": "About",
+    "status": "Status",
+    "resume": "Resume",
+    "works": "Works",
+    "contact": "Contact"
+  }
+}
