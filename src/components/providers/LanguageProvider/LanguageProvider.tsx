@@ -6,6 +6,7 @@ import { I18nextProvider, initReactI18next } from "react-i18next";
 // Import JSON translations
 import enTranslations from "@/locales/translations/en.json";
 import bnTranslations from "@/locales/translations/bn.json";
+import frTranslations from "@/locales/translations/fr.json";
 
 interface LanguageProviderProps {
   children: ReactNode;
@@ -18,6 +19,9 @@ i18next.use(initReactI18next).init({
     },
     bn: {
       translation: bnTranslations,
+    },
+    fr: {
+      translation: frTranslations,
     },
   },
   lng: "en",
