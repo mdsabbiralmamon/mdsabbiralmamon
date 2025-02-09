@@ -1,0 +1,11 @@
+{
+  "language": { "bn": "Bengali", "en": "English", "fr": "Français" },
+  "logo": "SAMEON",
+  "nav": {
+    "about": "À propos",
+    "status": "Statut",
+    "resume": "CV",
+    "works": "Travaux",
+    "contact": "Contact"
+  }
+}
