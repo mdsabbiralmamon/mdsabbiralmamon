@@ -1,10 +1,43 @@
 "use client";
-import React, { useEffect, useRef } from "react";
+import React, { Suspense, useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import Typewriter from "typewriter-effect";
+import { Canvas } from "@react-three/fiber";
+import { PerspectiveCamera } from "@react-three/drei";
+import HackerRoom from "../3dModels/HackerRoom/HackerRoom";
+import CanvasLoader from "../CanvasLoader/CanvasLoader";
+import { useMediaQuery } from "react-responsive";
+import { calculateSizes } from "@/constants";
+// import { useControls } from "leva";
 
 const Hero = () => {
   const handRef = useRef<HTMLSpanElement>(null);
+
+  // const {
+  //   positionX,
+  //   positionY,
+  //   positionZ,
+  //   rotationX,
+  //   rotationY,
+  //   rotationZ,
+  //   scale,
+  // } = useControls("HackerRoom", {
+  //   positionX: { value: 1.5, min: -10, max: 10, step: 0.001 },
+  //   positionY: { value: -7.81, min: -10, max: 10, step: 0.001 },
+  //   positionZ: { value: 0.49, min: -10, max: 10, step: 0.001 },
+  //   rotationX: { value: -2.9, min: -10, max: 10, step: 0.001 },
+  //   rotationY: { value: -6.3, min: -10, max: 10, step: 0.001 },
+  //   rotationZ: { value: -3.15, min: -10, max: 10, step: 0.001 },
+  //   scale: { value: 0.11, min: 0, max: 1, step: 0.001 },
+  // });
+
+  const isSmall = useMediaQuery({ query: "(max-width: 440px)" });
+  const isMobile = useMediaQuery({ query: "(max-width: 768px)" });
+  const istablet = useMediaQuery({
+    query: "(min-width: 768px, max-width: 1024px)",
+  });
+
+  const sizes = calculateSizes(isMobile, isSmall, istablet);
 
   // Waving animation
   useEffect(() => {
@@ -78,6 +111,24 @@ const Hero = () => {
             }}
           />
         </div>
+      </div>
+      <div className="absolute w-full h-full inset-0">
+        <Canvas className="w-full h-full">
+          <Suspense fallback={<CanvasLoader />}>
+            <PerspectiveCamera makeDefault position={[0, 0, 20]} />
+            <HackerRoom
+              scale={sizes.deskScale}
+              position={sizes.deskPosition as [number, number, number]}
+              rotation={[0, -Math.PI, 0]}
+
+              // scale={scale}
+              // position={[positionX, positionY, positionZ]}
+              // rotation={[rotationX, rotationY, rotationZ]}
+            />
+            <ambientLight intensity={1} />
+            <directionalLight intensity={0.5} position={[10, 10, 10]} />
+          </Suspense>
+        </Canvas>
       </div>
     </div>
   );
