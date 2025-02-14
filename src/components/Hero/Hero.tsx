@@ -8,6 +8,7 @@ import HackerRoom from "../3dModels/HackerRoom/HackerRoom";
 import CanvasLoader from "../CanvasLoader/CanvasLoader";
 import { useMediaQuery } from "react-responsive";
 import { calculateSizes } from "@/constants";
+import Target from "../3dModels/Target/Target";
 // import { useControls } from "leva";
 
 const Hero = () => {
@@ -125,6 +126,11 @@ const Hero = () => {
               // position={[positionX, positionY, positionZ]}
               // rotation={[rotationX, rotationY, rotationZ]}
             />
+            <group>
+              <Target
+                position={sizes.targetPosition as [number, number, number]}
+              />
+            </group>
             <ambientLight intensity={1} />
             <directionalLight intensity={0.5} position={[10, 10, 10]} />
           </Suspense>
