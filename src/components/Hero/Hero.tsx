@@ -9,6 +9,7 @@ import CanvasLoader from "../CanvasLoader/CanvasLoader";
 import { useMediaQuery } from "react-responsive";
 import { calculateSizes } from "@/constants";
 import Target from "../3dModels/Target/Target";
+import ReactLogo from "../3dModels/ReactLogo/ReactLogo";
 // import { useControls } from "leva";
 
 const Hero = () => {
@@ -129,6 +130,9 @@ const Hero = () => {
             <group>
               <Target
                 position={sizes.targetPosition as [number, number, number]}
+              />
+              <ReactLogo
+                position={sizes.reactLogoPosition as [number, number, number]}
               />
             </group>
             <ambientLight intensity={1} />
