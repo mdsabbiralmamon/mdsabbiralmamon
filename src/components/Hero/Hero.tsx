@@ -10,6 +10,8 @@ import { useMediaQuery } from "react-responsive";
 import { calculateSizes } from "@/constants";
 import Target from "../3dModels/Target/Target";
 import ReactLogo from "../3dModels/ReactLogo/ReactLogo";
+import Cube from "../3dModels/Cube/Cube";
+import Rings from "../3dModels/Rings/Rings";
 // import { useControls } from "leva";
 
 const Hero = () => {
@@ -133,6 +135,10 @@ const Hero = () => {
               />
               <ReactLogo
                 position={sizes.reactLogoPosition as [number, number, number]}
+              />
+              <Cube position={sizes.cubePosition as [number, number, number]} />
+              <Rings
+                position={sizes.ringPosition as [number, number, number]}
               />
             </group>
             <ambientLight intensity={1} />
