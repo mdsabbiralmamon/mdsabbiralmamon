@@ -4,16 +4,16 @@ import { gsap } from "gsap";
 import Typewriter from "typewriter-effect";
 import { Canvas } from "@react-three/fiber";
 import { PerspectiveCamera } from "@react-three/drei";
-import HackerRoom from "../3dModels/HackerRoom/HackerRoom";
-import CanvasLoader from "../CanvasLoader/CanvasLoader";
+import HackerRoom from "../../3dModels/HackerRoom/HackerRoom";
+import CanvasLoader from "../../providers/CanvasLoader/CanvasLoader";
 import { useMediaQuery } from "react-responsive";
 import { calculateSizes } from "@/constants";
-import Target from "../3dModels/Target/Target";
-import ReactLogo from "../3dModels/ReactLogo/ReactLogo";
-import Cube from "../3dModels/Cube/Cube";
-import Rings from "../3dModels/Rings/Rings";
-import HeroCamera from "../3dModels/HeroCamera/HeroCamera";
-import Button from "../UI/Button/Button";
+import Target from "../../3dModels/Target/Target";
+import ReactLogo from "../../3dModels/ReactLogo/ReactLogo";
+import Cube from "../../3dModels/Cube/Cube";
+import Rings from "../../3dModels/Rings/Rings";
+import HeroCamera from "../../3dModels/HeroCamera/HeroCamera";
+import Button from "../../UI/Button/Button";
 // import { useControls } from "leva";
 
 const Hero = () => {
