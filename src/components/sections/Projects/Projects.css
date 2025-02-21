@@ -1,0 +1,29 @@
+.arrow-btn {
+  width: 40px;
+  height: 40px;
+  padding: 12px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  border-radius: 50%;
+  background: linear-gradient(
+    45deg,
+    #3a3a3a,
+    #0a0a0a
+  ); /* Assuming 'arrow-gradient' is a gradient */
+}
+
+.arrow-btn:active {
+  transform: scale(0.95);
+}
+
+.tech-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 6px;
+  padding: 8px;
+  background-color: rgba(245, 245, 245, 0.1); /* Neutral-100 with opacity */
+  backdrop-filter: blur(10px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
