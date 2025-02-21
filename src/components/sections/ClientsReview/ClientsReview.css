@@ -1,0 +1,39 @@
+/* Clients Section */
+.client-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem; /* 5px */
+  margin-top: 3rem; /* 12px */
+
+  /* Medium Screens (md) */
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.client-review {
+  border: 1px solid #3a3a3a;
+  border-radius: 0.5rem; /* 8px */
+  padding: 1.25rem; /* 5px */
+  background-color: #0a0a0a; /* bg-opacity-50 */
+
+  /* Medium Screens (md) */
+  @media (min-width: 768px) {
+    padding: 2.5rem; /* 10px */
+  }
+}
+
+.client-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1.25rem; /* 5px */
+  margin-top: 1.75rem; /* 7px */
+
+  /* Large Screens (lg) */
+  @media (min-width: 1024px) {
+    flex-direction: row;
+    align-items: center;
+  }
+}
