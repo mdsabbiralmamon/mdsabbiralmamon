@@ -36,6 +36,12 @@ export const metadata: Metadata = {
         height: 630,
         alt: "Sabbir Al Mamon - Full Stack Developer",
       },
+      {
+        url: "https://mdsabbiralmamon.vercel.app/images/Logo/sabbir-avatar.png",
+        width: 1080,
+        height: 1080,
+        alt: "Sabbir Al Mamon - Full Stack Developer - Avatar",
+      },
     ],
     type: "website",
   },
