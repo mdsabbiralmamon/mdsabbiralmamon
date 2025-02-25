@@ -4,6 +4,7 @@ import Navbar from "@/components/shared/Navbar/Navbar";
 import React from "react";
 import Projects from "../components/sections/Projects/Projects";
 import ClientsReview from "@/components/sections/ClientsReview/ClientsReview";
+import Footer from "@/components/shared/Footer/Footer";
 
 const Home = () => {
   return (
@@ -17,7 +18,9 @@ const Home = () => {
         <Projects />
         <ClientsReview />
       </main>
-      <footer></footer>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 };
